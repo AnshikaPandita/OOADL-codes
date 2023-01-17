@@ -9,5 +9,7 @@ Two  complex numbers can be subtracted to get a complex number and it will be di
 Represent the above description as an interface and implementing class and implement the description in java  
 
 
-C1 = 5+4i			C3 = 3+4i
-C2 = 1-1i			C4 = 2+3i
+C1 = 5+4i		  
+C3 = 3+4i
+C2 = 1-1i
+C4 = 2+3i
