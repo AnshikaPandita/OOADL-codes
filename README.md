@@ -63,7 +63,6 @@ Yardage
 
 
 State:Aassam	
-
 Merchant 
 Product sold per month
 Product description
